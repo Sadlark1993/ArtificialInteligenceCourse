@@ -1,0 +1,13 @@
+/* Jason Project */
+
+MAS comunication1 {
+
+    infrastructure: Centralised
+
+    agents:
+        kate;
+
+        bob;
+
+}
+

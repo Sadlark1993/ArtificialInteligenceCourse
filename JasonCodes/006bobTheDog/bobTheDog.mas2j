@@ -1,0 +1,11 @@
+/* Jason Project */
+
+MAS bobTheDog {
+
+    infrastructure: Centralised
+
+    agents:
+        bob;
+
+}
+

@@ -1,0 +1,11 @@
+/* Jason Project */
+
+MAS fibo {
+
+    infrastructure: Centralised
+
+    agents:
+        fibonacci;
+
+}
+

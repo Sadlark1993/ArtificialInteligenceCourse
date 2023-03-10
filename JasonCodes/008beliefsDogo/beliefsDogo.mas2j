@@ -1,0 +1,11 @@
+/* Jason Project */
+
+MAS beliefsDogo {
+
+    infrastructure: Centralised
+
+    agents:
+        dogo;
+
+}
+

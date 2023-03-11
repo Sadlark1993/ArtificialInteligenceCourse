@@ -1,0 +1,29 @@
+/* Jason Project */
+/* 
+	Exercise:
+	1. Create the agent 'monitor'. This agent has a plan to print the message 'hi, how are you?';
+	2. The monitor agent will print the message only if it's not monday;
+	3. Create the agent 'person', add any belief, and use this belief to activate a plan/objective.
+Print a message telling that the plan was activated.
+	4. Criate two agents: person and weather. The weather has several possible types of actual weathers: 
+sunny, cloudy, rainy... Make plans for all the possibility of weathers.
+	5. Agent person ask a question to agent calculator about a calc. The answer must be printed by
+the person.
+	
+*/
+
+MAS exercises1 {
+
+    infrastructure: Centralised
+
+    agents:
+        monitor;
+
+        person;
+
+        weather;
+
+        calculator;
+
+}
+

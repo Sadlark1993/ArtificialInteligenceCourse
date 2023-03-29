@@ -1,0 +1,11 @@
+/* Jason Project */
+
+MAS beliefsUpdate_MentalNotes {
+
+    infrastructure: Centralised
+
+    agents:
+        dog;
+
+}
+

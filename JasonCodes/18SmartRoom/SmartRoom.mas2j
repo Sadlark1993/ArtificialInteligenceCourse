@@ -1,0 +1,13 @@
+/* Jason Project */
+
+MAS smartRoom {
+
+    infrastructure: Centralised
+
+    agents:
+        room;
+
+        alarmClock;
+
+}
+
